@@ -4,8 +4,8 @@ Each row of the table corresponds to a specific character and provides its visua
 
 <br>
 
- |  Character  |  ASCII (Decimal)  |  ASCII (Hex)  |  Unicode (Hex)  | HTML Entity (Decimal) | HTML Entity (Hex) |  URL Encoding  | 
- | ----------- | ---------------- | ------------- | --------------- | ---------------------- | ------------------ | -------------- | 
+ |Character|ASCII (Decimal)|ASCII (Hex)|Unicode (Hex)|HTML Entity (Decimal)|HTML Entity (Hex)| URL Encoding | 
+ |-----------|----------------|-------------|---------------|----------------------|------------------|--------------| 
  |    (space)  |        32        |      20       |     U+0020      | `&#32;` | `&#x0020;` |     %20        | 
  |      !      |        33        |      21       |     U+0021      | `&#33;` | `&#x0021;` |     %21        | 
  |      "      |        34        |      22       |     U+0022      | `&#34;` | `&#x0022;` |     %22        | 
@@ -65,7 +65,7 @@ Each row of the table corresponds to a specific character and provides its visua
  |      X      |        88        |      58       |     U+0058      | `&#88;` | `&#x0058;` |     %58        | 
  |      Y      |        89        |      59       |     U+0059      | `&#89;` | `&#x0059;` |     %59        | 
  |      Z      |        90        |      5A       |     U+005A      | `&#90;` | `&#x005A;` |     %5A        | 
- |     `[`      |        91        |      5B       |     U+005B      | `&#91;` | `&#x005B;` |     %5B        | 
+ |     [      |        91        |      5B       |     U+005B      | `&#91;` | `&#x005B;` |     %5B        | 
  |      \      |        92        |      5C       |     U+005C      | `&#92;` | `&#x005C;` |     %5C        | 
  |      ]      |        93        |      5D       |     U+005D      | `&#93;` | `&#x005D;` |     %5D        | 
  |      ^      |        94        |      5E       |     U+005E      | `&#94;` | `&#x005E;` |     %5E        | 
@@ -98,7 +98,7 @@ Each row of the table corresponds to a specific character and provides its visua
  |      y      |       121        |      79       |     U+0079      | `&#121;` | `&#x0079;` |     %79        | 
  |      z      |       122        |      7A       |     U+007A      | `&#122;` | `&#x007A;` |     %7A        | 
  |      {      |       123        |      7B       |     U+007B      | `&#123;` | `&#x007B;` |     %7B        | 
- |     `|`      |       124        |      7C       |     U+007C      | `&#124;` | `&#x007C;` |     %7C        | 
+ |     \|      |       124        |      7C       |     U+007C      | `&#124;` | `&#x007C;` |     %7C        | 
  |      }      |       125        |      7D       |     U+007D      | `&#125;` | `&#x007D;` |     %7D        | 
  |      ~      |       126        |      7E       |     U+007E      | `&#126;` | `&#x007E;` |     %7E        | 
  |      ¡      |       161        |      A1       |     U+00A1      | `&#161;` | `&#x00A1;` |     %A1        | 
