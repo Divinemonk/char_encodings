@@ -4,6 +4,20 @@ Each row of the table corresponds to a specific character and provides its visua
 
 <br>
 
+## [Table of content](#table-of-content)
+
+- [Special characters](#special-characters)
+- [Numbers](#numbers)
+- [Alphabets](#alphabets)
+    - [Uppercase letters](#uppercase-letters)
+    - [Lowercase letters](#lowercase-letters)
+- [Other characters](#other-characters)
+
+<br>
+<br>
+
+## Special characters
+
  |Character|ASCII (Decimal)|ASCII (Hex)|Unicode (Hex)|HTML Entity (Decimal)|HTML Entity (Hex)| URL Encoding | 
  |-----------|----------------|-------------|---------------|----------------------|------------------|--------------| 
  |    (space)  |        32        |      20       |     U+0020      | `&#32;` | `&#x0020;` |     %20        | 
@@ -22,6 +36,31 @@ Each row of the table corresponds to a specific character and provides its visua
  |      -      |        45        |      2D       |     U+002D      | `&#45;` | `&#x002D;` |     %2D        | 
  |      .      |        46        |      2E       |     U+002E      | `&#46;` | `&#x002E;` |     %2E        | 
  |      /      |        47        |      2F       |     U+002F      | `&#47;` | `&#x002F;` |     %2F        | 
+ |      :      |        58        |      3A       |     U+003A      | `&#58;` | `&#x003A;` |     %3A        | 
+ |      ;      |        59        |      3B       |     U+003B      | `&#59;` | `&#x003B;` |     %3B        | 
+ |      <      |        60        |      3C       |     U+003C      | `&#60;` | `&#x003C;` |     %3C        | 
+ |      =      |        61        |      3D       |     U+003D      | `&#61;` | `&#x003D;` |     %3D        | 
+ |      >      |        62        |      3E       |     U+003E      | `&#62;` | `&#x003E;` |     %3E        | 
+ |      ?      |        63        |      3F       |     U+003F      | `&#63;` | `&#x003F;` |     %3F        | 
+ |      @      |        64        |      40       |     U+0040      | `&#64;` | `&#x0040;` |     %40        |
+ |     [      |        91        |      5B       |     U+005B      | `&#91;` | `&#x005B;` |     %5B        | 
+ |      \      |        92        |      5C       |     U+005C      | `&#92;` | `&#x005C;` |     %5C        | 
+ |      ]      |        93        |      5D       |     U+005D      | `&#93;` | `&#x005D;` |     %5D        | 
+ |      ^      |        94        |      5E       |     U+005E      | `&#94;` | `&#x005E;` |     %5E        | 
+ |      _      |        95        |      5F       |     U+005F      | `&#95;` | `&#x005F;` |     %5F        | 
+ |      `      |        96        |      60       |     U+0060      | `&#96;` | `&#x0060;` |     %60        | 
+ 
+ |      {      |       123        |      7B       |     U+007B      | `&#123;` | `&#x007B;` |     %7B        | 
+ |     \|      |       124        |      7C       |     U+007C      | `&#124;` | `&#x007C;` |     %7C        | 
+ |      }      |       125        |      7D       |     U+007D      | `&#125;` | `&#x007D;` |     %7D        | 
+ |      ~      |       126        |      7E       |     U+007E      | `&#126;` | `&#x007E;` |     %7E        |
+
+<br>
+
+## Numbers
+
+|Character|ASCII (Decimal)|ASCII (Hex)|Unicode (Hex)|HTML Entity (Decimal)|HTML Entity (Hex)| URL Encoding | 
+ |---|---|---|---|---|---|---|
  |      0      |        48        |      30       |     U+0030      | `&#48;` | `&#x0030;` |     %30        | 
  |      1      |        49        |      31       |     U+0031      | `&#49;` | `&#x0031;` |     %31        | 
  |      2      |        50        |      32       |     U+0032      | `&#50;` | `&#x0032;` |     %32        | 
@@ -32,13 +71,16 @@ Each row of the table corresponds to a specific character and provides its visua
  |      7      |        55        |      37       |     U+0037      | `&#55;` | `&#x0037;` |     %37        | 
  |      8      |        56        |      38       |     U+0038      | `&#56;` | `&#x0038;` |     %38        | 
  |      9      |        57        |      39       |     U+0039      | `&#57;` | `&#x0039;` |     %39        | 
- |      :      |        58        |      3A       |     U+003A      | `&#58;` | `&#x003A;` |     %3A        | 
- |      ;      |        59        |      3B       |     U+003B      | `&#59;` | `&#x003B;` |     %3B        | 
- |      <      |        60        |      3C       |     U+003C      | `&#60;` | `&#x003C;` |     %3C        | 
- |      =      |        61        |      3D       |     U+003D      | `&#61;` | `&#x003D;` |     %3D        | 
- |      >      |        62        |      3E       |     U+003E      | `&#62;` | `&#x003E;` |     %3E        | 
- |      ?      |        63        |      3F       |     U+003F      | `&#63;` | `&#x003F;` |     %3F        | 
- |      @      |        64        |      40       |     U+0040      | `&#64;` | `&#x0040;` |     %40        | 
+ 
+ 
+ <br>
+ 
+ ## Alphabets
+ 
+ ### Uppercase letters
+ 
+|Character|ASCII (Decimal)|ASCII (Hex)|Unicode (Hex)|HTML Entity (Decimal)|HTML Entity (Hex)| URL Encoding | 
+ |---|---|---|---|---|---|---|
  |      A      |        65        |      41       |     U+0041      | `&#65;` | `&#x0041;` |     %41        | 
  |      B      |        66        |      42       |     U+0042      | `&#66;` | `&#x0042;` |     %42        | 
  |      C      |        67        |      43       |     U+0043      | `&#67;` | `&#x0043;` |     %43        | 
@@ -64,13 +106,14 @@ Each row of the table corresponds to a specific character and provides its visua
  |      W      |        87        |      57       |     U+0057      | `&#87;` | `&#x0057;` |     %57        | 
  |      X      |        88        |      58       |     U+0058      | `&#88;` | `&#x0058;` |     %58        | 
  |      Y      |        89        |      59       |     U+0059      | `&#89;` | `&#x0059;` |     %59        | 
- |      Z      |        90        |      5A       |     U+005A      | `&#90;` | `&#x005A;` |     %5A        | 
- |     [      |        91        |      5B       |     U+005B      | `&#91;` | `&#x005B;` |     %5B        | 
- |      \      |        92        |      5C       |     U+005C      | `&#92;` | `&#x005C;` |     %5C        | 
- |      ]      |        93        |      5D       |     U+005D      | `&#93;` | `&#x005D;` |     %5D        | 
- |      ^      |        94        |      5E       |     U+005E      | `&#94;` | `&#x005E;` |     %5E        | 
- |      _      |        95        |      5F       |     U+005F      | `&#95;` | `&#x005F;` |     %5F        | 
- |      `      |        96        |      60       |     U+0060      | `&#96;` | `&#x0060;` |     %60        | 
+ |      Z      |        90        |      5A       |     U+005A      | `&#90;` | `&#x005A;` |     %5A        |
+ 
+ <br>
+ 
+ ### Lowercase letters
+ 
+ |Character|ASCII (Decimal)|ASCII (Hex)|Unicode (Hex)|HTML Entity (Decimal)|HTML Entity (Hex)| URL Encoding | 
+ |---|---|---|---|---|---|---|
  |      a      |        97        |      61       |     U+0061      | `&#97;` | `&#x0061;` |     %61        | 
  |      b      |        98        |      62       |     U+0062      | `&#98;` | `&#x0062;` |     %62        | 
  |      c      |        99        |      63       |     U+0063      | `&#99;` | `&#x0063;` |     %63        | 
@@ -97,10 +140,14 @@ Each row of the table corresponds to a specific character and provides its visua
  |      x      |       120        |      78       |     U+0078      | `&#120;` | `&#x0078;` |     %78        | 
  |      y      |       121        |      79       |     U+0079      | `&#121;` | `&#x0079;` |     %79        | 
  |      z      |       122        |      7A       |     U+007A      | `&#122;` | `&#x007A;` |     %7A        | 
- |      {      |       123        |      7B       |     U+007B      | `&#123;` | `&#x007B;` |     %7B        | 
- |     \|      |       124        |      7C       |     U+007C      | `&#124;` | `&#x007C;` |     %7C        | 
- |      }      |       125        |      7D       |     U+007D      | `&#125;` | `&#x007D;` |     %7D        | 
- |      ~      |       126        |      7E       |     U+007E      | `&#126;` | `&#x007E;` |     %7E        | 
+ 
+ 
+ <br>
+ 
+ ## Other characters
+ 
+|Character|ASCII (Decimal)|ASCII (Hex)|Unicode (Hex)|HTML Entity (Decimal)|HTML Entity (Hex)| URL Encoding | 
+ |---|---|---|---|---|---|---| 
  |      ¡      |       161        |      A1       |     U+00A1      | `&#161;` | `&#x00A1;` |     %A1        | 
  |      ¢      |       162        |      A2       |     U+00A2      | `&#162;` | `&#x00A2;` |     %A2        | 
  |      £      |       163        |      A3       |     U+00A3      | `&#163;` | `&#x00A3;` |     %A3        | 
