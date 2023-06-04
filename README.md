@@ -4,7 +4,7 @@ Each row of the table corresponds to a specific character and provides its visua
 
 <br>
 
-## [Table of content](#table-of-content)
+## Table of content
 
 - [Special characters](#special-characters)
 - [Numbers](#numbers)
@@ -49,12 +49,11 @@ Each row of the table corresponds to a specific character and provides its visua
  |      ^      |        94        |      5E       |     U+005E      | `&#94;` | `&#x005E;` |     %5E        | 
  |      _      |        95        |      5F       |     U+005F      | `&#95;` | `&#x005F;` |     %5F        | 
  |      `      |        96        |      60       |     U+0060      | `&#96;` | `&#x0060;` |     %60        | 
- 
  |      {      |       123        |      7B       |     U+007B      | `&#123;` | `&#x007B;` |     %7B        | 
  |     \|      |       124        |      7C       |     U+007C      | `&#124;` | `&#x007C;` |     %7C        | 
  |      }      |       125        |      7D       |     U+007D      | `&#125;` | `&#x007D;` |     %7D        | 
  |      ~      |       126        |      7E       |     U+007E      | `&#126;` | `&#x007E;` |     %7E        |
-
+> [goto table of contents](#table-of-content)
 <br>
 
 ## Numbers
@@ -71,7 +70,7 @@ Each row of the table corresponds to a specific character and provides its visua
  |      7      |        55        |      37       |     U+0037      | `&#55;` | `&#x0037;` |     %37        | 
  |      8      |        56        |      38       |     U+0038      | `&#56;` | `&#x0038;` |     %38        | 
  |      9      |        57        |      39       |     U+0039      | `&#57;` | `&#x0039;` |     %39        | 
- 
+ > [goto table of contents](#table-of-content)
  
  <br>
  
@@ -107,7 +106,7 @@ Each row of the table corresponds to a specific character and provides its visua
  |      X      |        88        |      58       |     U+0058      | `&#88;` | `&#x0058;` |     %58        | 
  |      Y      |        89        |      59       |     U+0059      | `&#89;` | `&#x0059;` |     %59        | 
  |      Z      |        90        |      5A       |     U+005A      | `&#90;` | `&#x005A;` |     %5A        |
- 
+ > [goto table of contents](#table-of-content)
  <br>
  
  ### Lowercase letters
@@ -140,7 +139,7 @@ Each row of the table corresponds to a specific character and provides its visua
  |      x      |       120        |      78       |     U+0078      | `&#120;` | `&#x0078;` |     %78        | 
  |      y      |       121        |      79       |     U+0079      | `&#121;` | `&#x0079;` |     %79        | 
  |      z      |       122        |      7A       |     U+007A      | `&#122;` | `&#x007A;` |     %7A        | 
- 
+ > [goto table of contents](#table-of-content)
  
  <br>
  
@@ -337,3 +336,4 @@ Each row of the table corresponds to a specific character and provides its visua
  |      Ŝ      |          348      |      15C       |     U+015C      | `&#348;` | `&#x015C;` |     %15C       | 
  |      ŝ      |          349      |      15D       |     U+015D      | `&#349;` | `&#x015D;` |     %15D       | 
  |      Ş      |          350      |      15E       |     U+015E      | `&#350;` | `&#x015E;` |     %15E       | 
+> [goto table of contents](#table-of-content)
